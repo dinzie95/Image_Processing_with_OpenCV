@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Educational\Bsc. IT\L4S1\DIP\Library Calls\Project1\Project1\Source.cpp(20,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> E:\Educational\Bsc. IT\L4S1\DIP\Library Calls\Project1\x64\Debug\Project1.exe
