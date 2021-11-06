@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Educational\Bsc. IT\L4S1\DIP\ContrastStretching\Project1\Project1\Source.cpp(20,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Educational\Bsc. IT\L4S1\DIP\ContrastStretching\Project1\Project1\Source.cpp(80,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Educational\Bsc. IT\L4S1\DIP\ContrastStretching\Project1\Project1\Source.cpp(157,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> E:\Educational\Bsc. IT\L4S1\DIP\ContrastStretching\Project1\x64\Debug\Project1.exe
